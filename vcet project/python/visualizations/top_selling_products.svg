@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 360" width="100%" height="100%" style="background:#ffffff; border-radius:12px; font-family:system-ui, -apple-system, sans-serif;">
+        <rect width="700" height="360" fill="#ffffff" rx="12"/>
+        <text x="350.0" y="36" text-anchor="middle" font-size="18" font-weight="700" fill="#1e293b">Top 5 Fast-Moving Products (Units Sold)</text>
+        <text x="350.0" y="56" text-anchor="middle" font-size="12" fill="#64748b">Student: Ashvika K (732925ITR009) | 25IT3A</text>
+    
+        <text x="210" y="101" text-anchor="end" font-size="12" font-weight="600" fill="#334155">Basmati Rice Premium 1kg</text>
+        <rect x="220" y="85" width="283.3" height="24" fill="#3b82f6" rx="4"/>
+        <text x="513.3" y="102" font-size="12" font-weight="700" fill="#1e293b">9 units</text>
+        
+        <text x="210" y="149" text-anchor="end" font-size="12" font-weight="600" fill="#334155">Classic Salted Potato Chi</text>
+        <rect x="220" y="133" width="283.3" height="24" fill="#10b981" rx="4"/>
+        <text x="513.3" y="150" font-size="12" font-weight="700" fill="#1e293b">9 units</text>
+        
+        <text x="210" y="197" text-anchor="end" font-size="12" font-weight="600" fill="#334155">Marie Gold Biscuits 200g</text>
+        <rect x="220" y="181" width="220.4" height="24" fill="#f59e0b" rx="4"/>
+        <text x="450.4" y="198" font-size="12" font-weight="700" fill="#1e293b">7 units</text>
+        
+        <text x="210" y="245" text-anchor="end" font-size="12" font-weight="600" fill="#334155">Toor Dal Supreme 1kg</text>
+        <rect x="220" y="229" width="188.9" height="24" fill="#8b5cf6" rx="4"/>
+        <text x="418.9" y="246" font-size="12" font-weight="700" fill="#1e293b">6 units</text>
+        
+        <text x="210" y="293" text-anchor="end" font-size="12" font-weight="600" fill="#334155">Toned Fresh Milk 500ml</text>
+        <rect x="220" y="277" width="188.9" height="24" fill="#ec4899" rx="4"/>
+        <text x="418.9" y="294" font-size="12" font-weight="700" fill="#1e293b">6 units</text>
+        </svg>
